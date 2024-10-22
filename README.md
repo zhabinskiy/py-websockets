@@ -11,4 +11,5 @@ A simple WebSocket server and client implemented in Python.
 
 **Clone the repository:**
 ```bash
-git clone git@github.com:zhabinskiy/py-websockets.git```
+git clone git@github.com:zhabinskiy/py-websockets.git
+```
