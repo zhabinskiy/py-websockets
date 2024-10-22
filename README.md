@@ -13,3 +13,13 @@ A simple WebSocket server and client implemented in Python.
 ```bash
 git clone git@github.com:zhabinskiy/py-websockets.git
 ```
+
+**Run the server:**
+```bash
+python server.py
+```
+
+**Run the client (in separate pane/tab/window):**
+```bash
+python client.py
+```
